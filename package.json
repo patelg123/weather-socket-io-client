@@ -1,5 +1,5 @@
 {
-  "name": "socket-io-client",
+  "name": "weather-socket-io-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
